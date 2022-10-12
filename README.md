@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-My name is Erick Rincones and I am a student at School of Science Computer
+My name is Erick Rincones and I am a student at School of Computer Science
 of the Central University of Venezuela, working on my thesis in computer
 graphics. Currently I am a developer in Sybven C.A. and I am working to grow my
 own company, MCT Soluciones Inteligentes 480 C.A. and usually I
