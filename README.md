@@ -38,7 +38,7 @@ programming I am musician and amateur photographer.
 ![Express](https://img.shields.io/badge/-Express-informational?logo=express&style=social)
 ![Next.JS](https://img.shields.io/badge/-Next.JS-informational?logo=next.js&style=social)
 ![NestJS](https://img.shields.io/badge/-NestJS-informational?logo=nestjs&style=social)
-![TypeORM](https://img.shields.io/badge/--informational?label=TypeORM&style=social)
+![TypeORM](https://img.shields.io/badge/-TypeORM-informational?logo=typeorm&style=social)
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-informational?logo=mariadb&style=social)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-informational?logo=jupyter&style=social)
@@ -48,7 +48,7 @@ programming I am musician and amateur photographer.
 
 ![Git](https://img.shields.io/badge/-Git-informational?logo=git&style=social)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?logo=github&style=social)
-![VSCode](https://img.shields.io/badge/-VSCode-informational?logo=visualstudiocode&style=social)
+![VSCode](https://img.shields.io/badge/--informational?label=VSCode&style=social)
 ![Linux](https://img.shields.io/badge/-Linux-informational?logo=linux&style=social)
 
 ---
